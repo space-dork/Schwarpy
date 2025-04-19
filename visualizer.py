@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 from numpy.linalg import norm
 from tqdm.auto import tqdm
 import streamlit as st
-from PIL import Image
-import tempfile
-import os
 
 # --- UI Setup ---
 st.set_page_config(page_title="Schwarpy", layout="wide")
