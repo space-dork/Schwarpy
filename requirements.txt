@@ -5,3 +5,4 @@ streamlit
 PIL
 tempfile
 os
+pip
