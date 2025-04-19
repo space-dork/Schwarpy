@@ -1,6 +1,6 @@
 numpy
 matplotlib
-tqdm
+tqdm.auto
 streamlit
 PIL
 tempfile
