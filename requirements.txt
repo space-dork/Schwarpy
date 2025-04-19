@@ -2,7 +2,7 @@ numpy
 matplotlib
 tqdm
 streamlit
-PIL
+Pillow
 tempfile
 os
 pip
