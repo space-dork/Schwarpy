@@ -3,5 +3,4 @@ matplotlib
 tqdm
 streamlit
 Pillow
-tempfile
 os
