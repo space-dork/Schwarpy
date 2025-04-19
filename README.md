@@ -2,6 +2,8 @@ Raytracing a Schwarzschild Black hole!
 
 To run, download the files and type ```streamlit run visualizer.py```
 
+*OR* use the [WEB APP](https://schwarpy.streamlit.app/)
+
 Using the streamlit interface, you can change the inclination, distance, timesteps, resolution, and can upload background images!
 
 **Some examples**
